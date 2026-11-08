@@ -1,0 +1,24 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animeav1.com&sz=64",
+    "fileHash": "sha256-43b5b2918cc340127a9268573f7b7db208291f9dd10cccdaeb46d4bbc1b1fe21",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Fabiano2503/astra-cloudstream",
+    "fileSize": 34708,
+    "status": 1,
+    "language": "es-419",
+    "authors": [
+      "Fabiano2503"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 3,
+    "internalName": "AnimeAV1",
+    "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
+    "url": "https://raw.githubusercontent.com/Fabiano2503/astra-cloudstream/refs/heads/builds/AnimeAV1.cs3",
+    "name": "AnimeAV1"
+  }
+]
