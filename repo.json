@@ -1,0 +1,8 @@
+{
+  "name": "Astra",
+  "description": "A collection of independent extensions for CloudStream.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Fabiano2503/astra-cloudstream/refs/heads/builds/plugins.json"
+  ]
+}

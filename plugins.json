@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Fabiano2503/astra-cloudstream/refs/heads/builds/Anime-JL.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Anime-JL",
+    "internalName": "Anime-JL",
+    "authors": [
+      "Fabiano2503"
+    ],
+    "description": "Anime-JL",
+    "fileSize": 22159,
+    "repositoryUrl": "https://github.com/Fabiano2503/astra-cloudstream",
+    "language": "es-419",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=anime-jl.net&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-d5b3d3c301166ad0d88f4fca0a0f8de6ae8e9d1e8127f350ad7e4fd2591ffa05"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Fabiano2503/astra-cloudstream/refs/heads/builds/AnimeAV1.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "AnimeAV1",
+    "internalName": "AnimeAV1",
+    "authors": [
+      "Fabiano2503"
+    ],
+    "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
+    "fileSize": 26196,
+    "repositoryUrl": "https://github.com/Fabiano2503/astra-cloudstream",
+    "language": "es-419",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animeav1.com&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-f8e2ec83e67ef12affe6507b5c05384a5fc14ad7876e5512c3198685dd3b5638"
+  }
+]
