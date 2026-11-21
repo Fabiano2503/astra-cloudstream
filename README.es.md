@@ -12,9 +12,7 @@ Astra es un repositorio independiente de extensiones para [CloudStream](https://
 
 > Requiere un dispositivo Android con CloudStream instalado.
 
-[![Instalar en CloudStream](https://img.shields.io/badge/Instalar%20en-CloudStream-5865F2?style=for-the-badge&logo=android&logoColor=white)](cloudstreamrepo://raw.githubusercontent.com/Fabiano2503/astra-cloudstream/refs/heads/builds/repo.json)
-
-Si el botón no funciona, agrega el repositorio manualmente:
+Agrega el repositorio a CloudStream:
 
 1. Copia la URL del repositorio:
 
