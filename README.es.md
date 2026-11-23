@@ -1,67 +1,48 @@
 # ✦ Astra
 
-**Repositorio independiente de extensiones para CloudStream**
+**Repositorio de extensiones para CloudStream**
 
 ![Plataforma](https://img.shields.io/badge/Plataforma-CloudStream-5865F2?style=flat-square)
 
 [English](README.md) | **Español**
 
-Astra es un repositorio independiente de extensiones para [CloudStream](https://github.com/recloudstream/cloudstream). Su objetivo es mantenerlas estables, compatibles y fáciles de instalar.
+Agrega el repositorio de Astra a [CloudStream](https://github.com/recloudstream/cloudstream) con una sola URL para acceder a sus extensiones.
 
 ## Instalación
 
-> Requiere un dispositivo Android con CloudStream instalado.
+> Necesitas un dispositivo Android con CloudStream.
 
-Agrega el repositorio a CloudStream:
-
-1. Copia la URL del repositorio:
+1. Copia esta URL:
 
    ```text
    https://raw.githubusercontent.com/Fabiano2503/astra-cloudstream/refs/heads/builds/repo.json
    ```
 
-2. Abre CloudStream y ve a **Ajustes → Extensiones → Agregar repositorio**.
+2. En CloudStream ve a **Ajustes → Extensiones → Agregar repositorio**.
 3. Pega la URL y confirma.
-4. Instala desde la lista las extensiones de Astra que quieras.
+4. Instala las extensiones que quieras de la lista.
 
 ## Extensiones
 
-| Extensión | Idioma | Tipo |
+| Nombre | Idioma | Soportado |
 |---|---|---|
 | Anime-JL | Español (Latinoamérica) | Anime, Películas de anime, OVA |
 | AnimeAV1 | Español (Latinoamérica) | Anime, Películas de anime, OVA |
 
-Puedes ver el estado y la versión de cada extensión directamente dentro de CloudStream. Las nuevas versiones y correcciones llegan aquí y pasan a CloudStream automáticamente a través de la URL del repositorio. Las extensiones se distribuyen como archivos `.cs3` compilados.
-
-## Fuente oficial
-
-Este repositorio es la **única fuente oficial** de las extensiones de Astra. Lo que encuentres en otro lado no es de Astra.
+Las extensiones se distribuyen como archivos `.cs3` compilados y CloudStream gestiona sus actualizaciones automáticamente.
 
 ## Soporte
 
-¿Algo no funciona? Abre un [issue](https://github.com/Fabiano2503/astra-cloudstream/issues) y cuéntame:
+¿Algo no funciona? Algunas extensiones pueden dejar de funcionar cuando cambian sus sitios de origen, así que revisa primero los issues existentes.
 
-- El nombre de la extensión afectada.
-- Una descripción clara del problema.
-- Mensajes de error o pasos para reproducirlo, si los tienes.
-- Tu versión de CloudStream.
+Si el problema aún no se ha reportado, abre un [issue](https://github.com/Fabiano2503/astra-cloudstream/issues) e incluye:
 
-Las extensiones pueden dejar de funcionar cuando cambia el sitio de origen, así que revisa los issues abiertos antes de reportar uno nuevo.
+- Qué extensión está afectada.
+- Qué ocurre, incluyendo cualquier mensaje de error o los pasos para reproducir el problema, si los tienes.
+- Qué versión de CloudStream utilizas.
 
-## Términos de uso
+## Fuente oficial
 
-Las extensiones distribuidas a través de este repositorio se ofrecen de forma gratuita, para uso personal con CloudStream.
+Las versiones oficiales de Astra siempre salen de este repositorio. Puedes compartir el enlace o incluirlo en otras listas sin problema; solo te pido que no subas los archivos `.cs3` a otros sitios ni los presentes como propios.
 
-Todos los derechos reservados. Salvo permiso explícito, no puedes:
-
-- Redistribuir, volver a subir ni republicar los archivos compilados (`.cs3`) fuera de este repositorio.
-- Modificar, descompilar ni aplicar ingeniería inversa a las extensiones.
-- Presentar las extensiones como obra propia.
-
-Las extensiones se ofrecen "tal cual", sin garantía de ningún tipo.
-
-## Aviso legal
-
-Astra es un proyecto independiente, no afiliado ni respaldado por CloudStream ni por sus desarrolladores. No aloja ni posee ningún contenido: las extensiones solo se conectan a sitios web de terceros.
-
-**Solicitudes de retiro:** si eres titular de derechos y crees que una extensión infringe tus derechos, abre un [issue](https://github.com/Fabiano2503/astra-cloudstream/issues) con el nombre de la extensión y lo que necesitas.
+Las extensiones se proporcionan gratuitamente para uso personal.

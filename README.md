@@ -1,67 +1,48 @@
 # ✦ Astra
 
-**Independent CloudStream extensions repository**
+**CloudStream extensions repository**
 
 ![Platform](https://img.shields.io/badge/Platform-CloudStream-5865F2?style=flat-square)
 
 **English** | [Español](README.es.md)
 
-Astra is an independent repository of extensions for [CloudStream](https://github.com/recloudstream/cloudstream). Its goal is to keep them stable, compatible, and easy to install.
+Add the Astra repository to [CloudStream](https://github.com/recloudstream/cloudstream) with a single URL to access its extensions.
 
 ## Installation
 
-> Requires an Android device with CloudStream installed.
+> You need an Android device with CloudStream.
 
-Add the repository to CloudStream:
-
-1. Copy the repository URL:
+1. Copy this URL:
 
    ```text
    https://raw.githubusercontent.com/Fabiano2503/astra-cloudstream/refs/heads/builds/repo.json
    ```
 
-2. Open CloudStream and go to **Settings → Extensions → Add repository**.
+2. In CloudStream, go to **Settings → Extensions → Add repository**.
 3. Paste the URL and confirm.
-4. Install the Astra extensions you want from the list.
+4. Install whichever extensions you want from the list.
 
 ## Extensions
 
-| Extension | Language | Type |
+| Name | Language | Supported |
 |---|---|---|
 | Anime-JL | Spanish (Latin America) | Anime, Anime Movies, OVA |
 | AnimeAV1 | Spanish (Latin America) | Anime, Anime Movies, OVA |
 
-You can see each extension's status and version right inside CloudStream. New versions and fixes land here and reach CloudStream automatically through the repo URL. Extensions are distributed as compiled `.cs3` files.
-
-## Official Source
-
-This repository is the **only official source** of Astra extensions. Anything you find elsewhere isn't from Astra.
+Extensions are distributed as compiled `.cs3` files, with updates managed automatically by CloudStream.
 
 ## Support
 
-Something not working? Open an [issue](https://github.com/Fabiano2503/astra-cloudstream/issues) and tell me:
+Something not working? Extensions may stop working when their source websites change, so please check existing issues first.
 
-- The name of the affected extension.
-- A clear description of the problem.
-- Any error messages or steps to reproduce it, if available.
-- Your CloudStream version.
+If the problem hasn't been reported yet, open an [issue](https://github.com/Fabiano2503/astra-cloudstream/issues) and include:
 
-Extensions can break when the source site changes, so please check the open issues before reporting a new one.
+- Which extension is affected.
+- What happens, including any error messages or steps to reproduce the problem, if available.
+- Which version of CloudStream you're using.
 
-## Terms of Use
+## Official source
 
-The extensions distributed through this repository are provided free of charge for personal use with CloudStream.
+Official Astra versions always come from this repository. You're welcome to share the link or include it in other lists; I just ask that you don't re-upload the `.cs3` files elsewhere or present them as your own.
 
-All rights reserved. Unless explicitly permitted, you may not:
-
-- Redistribute, re-upload, or republish the compiled files (`.cs3`) outside of this repository.
-- Modify, decompile, or reverse engineer the extensions.
-- Present the extensions as your own work.
-
-Extensions are provided "as is", without warranty of any kind.
-
-## Legal Notice
-
-Astra is an independent project, not affiliated with or endorsed by CloudStream or its developers. It doesn't host or own any content: the extensions only connect to third-party websites.
-
-**Takedown requests:** if you're a rights holder and think an extension infringes your rights, open an [issue](https://github.com/Fabiano2503/astra-cloudstream/issues) with the extension name and what you need.
+The extensions are provided free of charge for personal use.
